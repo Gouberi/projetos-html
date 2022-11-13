@@ -1,0 +1,28 @@
+body{
+
+background-color: black
+
+}
+
+#game{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 500px;
+    height: 533px;
+    background-image: url(imgs/back.png)  
+}
+
+#naveP{
+ position: absolute;
+ left: 210px;
+ top: 450px;
+
+}
+
+#IdInfo{
+color: white;   
+position: absolute;
+left: 0px;
+top: 0px;
+}
