@@ -1,0 +1,105 @@
+
+
+body {
+background-image: url(imgs/background.jpg);
+color: white;
+font-family: monospace;
+text-align: center;
+
+
+
+}
+
+form{
+    
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.329);
+    width: 300px;
+    height: 250px;
+    text-align: center;
+    
+    }
+    
+    input{
+    text-align: center;
+    display: block;
+    margin: 10px auto;
+    width: 250px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: x-small;
+    }
+    
+    #botao {
+   text-align: center;
+   background-color: red;
+   color: white;
+   font-size: small;
+
+    }
+
+  
+img.img01:hover{
+    border: 3px solid white;
+    transform:scale(1);
+}
+
+#logout{
+position: absolute;
+color: white;
+top: 10px;
+right: 30px;
+}
+
+#logo{  
+position: absolute;
+left: 30px;
+
+}
+
+#categorias{
+   left: 550px;
+   position: relative;
+   width: 190px;
+   background-color: rgba(248, 9, 9, 0.329);
+   padding: 10px;
+   page-break-inside: 10px;
+  
+}
+
+iframe{
+
+position: absolute;    
+top: 105px;
+left: 405px;
+
+
+}
+
+#infofilme{
+display: inline-block;
+width: 350px;
+position: absolute;
+top: 430px;
+left: 500px;
+background-color: rgba(0, 0, 0, 0.719);
+overflow-wrap: break-word;
+
+}
+
+
+#btn-home{
+    position: absolute;
+    color: white;
+    top: 430px;
+    left: 380px;
+}
+
+img.return:hover{
+    border: 2px solid black;
+    transform:scale(1);
+
+}
+
+
+
